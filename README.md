@@ -4,8 +4,8 @@ This part of the compiler comprises the following classes:
 
 Please visit www.nand2tetris.org for more information.
 
-### installation
+### Installation
 
 Please do:
 
-'$ git clone 
+'$ git clone https://github.com/PawelKosiorek/jack-compiler-back-end.git'
