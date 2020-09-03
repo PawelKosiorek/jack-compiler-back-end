@@ -8,4 +8,4 @@ Please visit www.nand2tetris.org for more information.
 
 Please do:
 
-'$ git clone https://github.com/PawelKosiorek/jack-compiler-back-end.git'
+`$ git clone https://github.com/PawelKosiorek/jack-compiler-back-end.git`
