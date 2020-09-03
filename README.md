@@ -3,9 +3,11 @@ Jack is a modern, Java-like, high level object oriented language. It was created
 
 This part of the compiler comprises the following classes:
 
-Parser, which handles parsing a single .vm file.    
-CodwRiter, which generates Hack code into the corresponding output file.
-VMTranslator, which 
+Parser, which handles parsing a single .vm file.
+
+CodeWriter, which generates Hack code into the corresponding output file.
+
+VMTranslator, which is a top-level driver.
 
 Please visit www.nand2tetris.org for more information.
 
