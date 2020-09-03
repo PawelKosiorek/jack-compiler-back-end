@@ -19,6 +19,8 @@ Please do:
 
 ### Usage
 
+You will need the nand2tetris software suite to run Jack programs. Get it from https://www.nand2tetris.org/software
+
 If you invoke `$ VMTranslator <filename.vm>` the program will create a single <filename.asm> file in the same directory.
 
 If you invoke `$ VMTranslator <directoryname>` it will compile every .vm file in that directory a single .asm file which will be stored in the same directory.
