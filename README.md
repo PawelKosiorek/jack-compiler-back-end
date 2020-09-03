@@ -1,8 +1,10 @@
 # Jack compiler: back end
 Jack is a modern, Java-like, high level object oriented language. It was created for the purposes of nand2tetris course and is run on the Hack Computer hardware platform. This software is the back-end part of Jack compiler. Jack compiler consists of back and front end because it is a two-tier one. The front-end part compiles Jack classes into intermadiate code called VM (similar to JVM) whereas the back-end part compiles VM files into a single Hack assembly file, runnable on the Hack platform.
+
 This part of the compiler comprises the following classes:
+
 Parser, which handles parsing a single .vm file.    
-CodwRiter, which generates Hack code into the corrrsponding output file.
+CodwRiter, which generates Hack code into the corresponding output file.
 VMTranslator, which 
 
 Please visit www.nand2tetris.org for more information.
