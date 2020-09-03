@@ -13,6 +13,6 @@ Please do:
 
 ### Usage
 
-If you invoke `$VMTranslator <filename.vm>` the program will create a single <filename.asm> file in the same directory.
+If you invoke `$ VMTranslator <filename.vm>` the program will create a single <filename.asm> file in the same directory.
 
-If you invoke `VMTranslator <directory name>` it will compile every .vm file in that directory to one .asm file which will be stored in the same directory.
+If you invoke `$ VMTranslator <directory name>` it will compile every .vm file in that directory to one .asm file which will be stored in the same directory.
